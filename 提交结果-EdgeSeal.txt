@@ -2,7 +2,7 @@
 （粘贴你的可访问线上地址）
 
 Github公开仓库地址：
-（粘贴你的 GitHub Repo URL）
+https://github.com/xiaobing2/yinzhang
 
 作品说明（可直接提交给评委）：
 作品名称：在线印章生成器（Edge Seal）
