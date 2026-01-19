@@ -1,0 +1,10 @@
+{
+  "name": "edge-seal",
+  "entry": "./functions/timestamp.js",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "assets": {
+    "directory": "./",
+    "notFoundStrategy": "404Page"
+  }
+}
